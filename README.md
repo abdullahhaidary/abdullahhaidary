@@ -10,6 +10,7 @@ Salaam Aalikum, I'm Abdullah, a passionate software engineer with a knack for co
 📚 Continuous Learning: Coding is not just my profession; it's my hobby. I am always eager to expand my knowledge and stay up-to-date with the latest technologies and trends in the ever-evolving tech landscape.
 🛠️ Technologies & Tools
 I am proficient in a variety of technologies and tools, including:
+AI & Machine Learning: Tensorflow and OpenCV...
 
 Frontend: HTML, CSS, JavaScript, React, Ajax, jQuery, Bootstrap
 Backend: PHP, Laravel, Node.js, Express
