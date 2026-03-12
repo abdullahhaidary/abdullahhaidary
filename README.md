@@ -12,7 +12,7 @@
   </a>
 </div>
 
-Welcome to my GitHub! 👩‍💻 👋 Hello, I'm Abdullah Haidary, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Khurasan University in Jalalabad, Afghanistan, and currently, I'm pursuing my Master's degree from Bakhtar University in Kabul. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here [Portfolio](https://abdullahhaidary.com/).
+Welcome to my GitHub! 👩‍💻 👋 Hello, I'm Abdullah Haidary, a Full Stack Web Developer And Mobile Application Developer with five years of experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Kabul Polytechnic University, Kabul, Afghanistan, 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here [Portfolio](https://abdullahhaidary.com/).
 
 Tools Based Platform: <a href="https://aslitools.com">https://aslitools.com</a><br />
 Asan Typing Application: <a href="https://asantyping.com">https://asantyping.com</a><br />
