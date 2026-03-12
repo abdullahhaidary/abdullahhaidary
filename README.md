@@ -1,16 +1,43 @@
-## Hi there 👋
+**`Full Stack web Developer`**
 
-<!--
-**abdullahhaidary/abdullahhaidary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Asalamualikum (Hi)👋there, I am Abdullah Haidary</h1>
 
-Here are some ideas to get you started:
+<div align="left" style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://user-badge.committers.top/afghanistan_private/abdullahhaidary">
+    <img src="https://user-badge.committers.top/afghanistan_private/abdullahhaidary.svg" alt="committers.top badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdullahhaidary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://www.linkedin.com/in/abdullah-haidary/">
+    <img src="https://img.shields.io/badge/-@abdullah-haidary?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abdullah-haidary/" alt="LinkedIn Badge">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! 👩‍💻 👋 Hello, I'm Abdullah Haidary, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Khurasan University in Jalalabad, Afghanistan, and currently, I'm pursuing my Master's degree from Bakhtar University in Kabul. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here [Portfolio](https://abdullahhaidary.com/).
+
+Tools Based Platform: <a href="https://aslitools.com">https://aslitools.com</a><br />
+Asan Typing Application: <a href="https://asantyping.com">https://asantyping.com</a><br />
+Pashto Typing Applicaton: <a href="https://pashtotyping.com">https://pashtotyping.com</a><br />
+Persian Typing Applicaton: <a href="https://darityping.com">https://darityping.com</a><br />
+Date Converter Tool: <a href="https://afghandateconverter.com">https://afghandateconverter.com</a><br />
+Tax Calculator Tool: <a href="https://afghantaxcalculator.com">https://afghantaxcalculator.com</a>
+
+
+## 💼 Languages and Tools:
+
+<img align="left" alt="HTML5"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nextjs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="35px" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" style="padding-right:10px;" />
+
+<br/>
